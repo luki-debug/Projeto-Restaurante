@@ -1,0 +1,34 @@
+D:\Projetos Program\ASPNET\Negocio\bin\Debug\Negocio.dll
+D:\Projetos Program\ASPNET\Negocio\bin\Debug\Negocio.pdb
+D:\Projetos Program\ASPNET\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Projetos Program\ASPNET\Negocio\obj\Debug\Negocio.dll
+D:\Projetos Program\ASPNET\Negocio\obj\Debug\Negocio.pdb
+D:\Projetos Program\ASPNET\Negocio\bin\Debug\AcessoBanco.dll
+D:\Projetos Program\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.dll
+D:\Projetos Program\ASPNET\Negocio\bin\Debug\AcessoBanco.pdb
+D:\Projetos Program\ASPNET\Negocio\bin\Debug\AcessoBanco.dll.config
+D:\Projetos Program\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.pdb
+D:\Projetos Program\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\Negocio.dll
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\AcessoBanco.dll
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\AcessoBanco.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\AcessoBanco.dll.config
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.dll
+C:\Users\Lucas\Documents\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\Negocio.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\Negocio.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\AcessoBanco.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\AcessoBanco.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\AcessoBanco.dll.config
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.pdb

@@ -1,0 +1,7 @@
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.exe.config
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.exe
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.exe
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.pdb

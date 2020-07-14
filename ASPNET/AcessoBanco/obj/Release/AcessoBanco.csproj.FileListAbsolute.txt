@@ -1,0 +1,7 @@
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\bin\Release\AcessoBanco.dll.config
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\bin\Release\AcessoBanco.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\bin\Release\AcessoBanco.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Release\AcessoBanco.csprojAssemblyReference.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Release\AcessoBanco.csproj.CoreCompileInputs.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Release\AcessoBanco.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Release\AcessoBanco.pdb

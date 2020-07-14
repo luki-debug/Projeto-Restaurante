@@ -1,0 +1,107 @@
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.exe.config
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.exe
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\Apresenta.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmMenu.resources
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.Properties.Resources.resources
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\Apresenta.csproj.GenerateResource.cache
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.exe
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.frmClienteSelecionar.resources
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\Negocio.dll
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\AcessoBanco.dll
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\Negocio.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\AcessoBanco.pdb
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\bin\Debug\AcessoBanco.dll.config
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\Apresenta.csproj.CopyComplete
+C:\Users\Lucas\Documents\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmClienteCadastrar.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.exe.config
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.exe
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\teste.pdb
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\Negocio.dll
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\ObjetoTransferencia.dll
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\AcessoBanco.dll
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\Negocio.pdb
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\ObjetoTransferencia.pdb
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\AcessoBanco.pdb
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\AcessoBanco.dll.config
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\Apresenta.csprojAssemblyReference.cache
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmClienteCadastrar.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmClienteSelecionar.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmMenu.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.Properties.Resources.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\Apresenta.csproj.GenerateResource.cache
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\Apresenta.csproj.CoreCompileInputs.cache
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\Apresenta.csproj.CopyComplete
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.exe
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.pdb
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\bin\Debug\FontAwesome.Sharp.dll
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmPedido.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmProduto.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmDashBoard.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmConfiguracao.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmProdutoCadastrar.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmPedidoCadastrar.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmPedidoSelecionarCliente.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmPedidoProdutoSelecionar.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmPedidoEditQtd.resources
+D:\Projetos Program\Scripts C Sharp\Solução Cliente\teste\obj\Debug\teste.FrmProdutoTipo.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\teste.exe.config
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\teste.exe
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\teste.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\Negocio.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ObjetoTransferencia.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\AcessoBanco.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\Negocio.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ObjetoTransferencia.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\AcessoBanco.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\AcessoBanco.dll.config
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\Apresenta.csprojAssemblyReference.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmPedidoEditQtd.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmClienteCadastrar.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmClienteSelecionar.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmConfiguracao.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmDashBoard.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmMenu.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmPedido.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmPedidoCadastrar.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmPedidoProdutoSelecionar.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmPedidoSelecionarCliente.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmProduto.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmProdutoCadastrar.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.FrmProdutoTipo.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.Properties.Resources.resources
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\Apresenta.csproj.GenerateResource.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\Apresenta.csproj.CoreCompileInputs.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\Apresenta.csproj.CopyComplete
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.exe
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Mvvm.v19.1.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Mvvm.v19.1.xml
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Apresenta\obj\Debug\teste.exe.licenses

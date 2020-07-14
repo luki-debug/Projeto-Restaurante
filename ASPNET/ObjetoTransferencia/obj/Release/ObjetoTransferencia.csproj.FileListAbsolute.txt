@@ -1,0 +1,6 @@
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\bin\Release\ObjetoTransferencia.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\bin\Release\ObjetoTransferencia.pdb
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csprojAssemblyReference.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.dll
+D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.pdb
