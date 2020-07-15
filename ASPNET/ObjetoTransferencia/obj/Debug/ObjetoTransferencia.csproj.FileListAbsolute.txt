@@ -13,3 +13,9 @@ D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojAssemblyReference.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb

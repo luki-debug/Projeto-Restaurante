@@ -4,3 +4,9 @@ D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csproj.CoreCompileInputs.cache
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.dll
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\bin\Release\ObjetoTransferencia.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\bin\Release\ObjetoTransferencia.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csprojAssemblyReference.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.csproj.CoreCompileInputs.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Release\ObjetoTransferencia.pdb

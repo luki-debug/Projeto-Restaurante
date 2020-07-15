@@ -17,3 +17,9 @@ D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Debug\A
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.dll
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.pdb

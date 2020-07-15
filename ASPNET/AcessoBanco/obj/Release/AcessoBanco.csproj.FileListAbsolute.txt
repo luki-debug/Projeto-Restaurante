@@ -5,3 +5,10 @@ D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Release
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Release\AcessoBanco.csproj.CoreCompileInputs.cache
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Release\AcessoBanco.dll
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\AcessoBanco\obj\Release\AcessoBanco.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Release\AcessoBanco.dll.config
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Release\AcessoBanco.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Release\AcessoBanco.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Release\AcessoBanco.csprojAssemblyReference.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Release\AcessoBanco.csproj.CoreCompileInputs.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Release\AcessoBanco.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Release\AcessoBanco.pdb

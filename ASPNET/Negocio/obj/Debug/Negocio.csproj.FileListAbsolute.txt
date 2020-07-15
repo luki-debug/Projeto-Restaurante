@@ -32,3 +32,15 @@ D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negoc
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.dll
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\Negocio.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.dll.config
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.pdb

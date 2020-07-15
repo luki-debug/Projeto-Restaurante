@@ -10,3 +10,15 @@ D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Release\Neg
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Release\Negocio.csproj.CopyComplete
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Release\Negocio.dll
 D:\Projetos Program\Scripts C Sharp\ProjetoAgenda\ASPNET\Negocio\obj\Release\Negocio.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Release\Negocio.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Release\Negocio.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Release\AcessoBanco.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Release\ObjetoTransferencia.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Release\AcessoBanco.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Release\AcessoBanco.dll.config
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Release\ObjetoTransferencia.pdb
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Release\Negocio.csprojAssemblyReference.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Release\Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Release\Negocio.csproj.CopyComplete
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Release\Negocio.dll
+C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Release\Negocio.pdb
