@@ -51,13 +51,6 @@ namespace teste
             this.colQuant = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colValorUn = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colValorTotal = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.panel1 = new System.Windows.Forms.Panel();
-            this.tbxDesc = new System.Windows.Forms.TextBox();
-            this.label2 = new System.Windows.Forms.Label();
-            this.tbxValorBruto = new System.Windows.Forms.TextBox();
-            this.label1 = new System.Windows.Forms.Label();
-            this.tbxValorTotal = new System.Windows.Forms.TextBox();
-            this.labelPedidoValorTotal = new System.Windows.Forms.Label();
             this.labelTelefone2 = new System.Windows.Forms.Label();
             this.textPedidoTel2 = new System.Windows.Forms.TextBox();
             this.textBoxCidade = new System.Windows.Forms.TextBox();
@@ -74,6 +67,13 @@ namespace teste
             this.labelPedidoCliente = new System.Windows.Forms.Label();
             this.labelPedidoHoraIn = new System.Windows.Forms.Label();
             this.labelPedidoNum = new System.Windows.Forms.Label();
+            this.pnlValorT = new System.Windows.Forms.Panel();
+            this.tbxDesc = new System.Windows.Forms.TextBox();
+            this.label2 = new System.Windows.Forms.Label();
+            this.tbxValorBruto = new System.Windows.Forms.TextBox();
+            this.label1 = new System.Windows.Forms.Label();
+            this.tbxValorTotal = new System.Windows.Forms.TextBox();
+            this.labelPedidoValorTotal = new System.Windows.Forms.Label();
             this.panelPedidoOrdem = new System.Windows.Forms.Panel();
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
@@ -84,7 +84,7 @@ namespace teste
             this.panelPedidoDetal.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwItens)).BeginInit();
-            this.panel1.SuspendLayout();
+            this.pnlValorT.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.situacaoBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
@@ -166,7 +166,6 @@ namespace teste
             this.panelPedidoDetal.AutoScroll = true;
             this.panelPedidoDetal.AutoScrollMargin = new System.Drawing.Size(5, 10);
             this.panelPedidoDetal.BackColor = System.Drawing.Color.Gainsboro;
-            this.panelPedidoDetal.Controls.Add(this.panel1);
             this.panelPedidoDetal.Controls.Add(this.textBoxPedidoHorario);
             this.panelPedidoDetal.Controls.Add(this.textBoxPedidoNum);
             this.panelPedidoDetal.Controls.Add(this.textPedidoStatus);
@@ -189,11 +188,9 @@ namespace teste
             this.panelPedidoDetal.Controls.Add(this.labelPedidoNum);
             this.panelPedidoDetal.Location = new System.Drawing.Point(300, 41);
             this.panelPedidoDetal.Name = "panelPedidoDetal";
-            this.panelPedidoDetal.Size = new System.Drawing.Size(584, 361);
+            this.panelPedidoDetal.Size = new System.Drawing.Size(584, 311);
             this.panelPedidoDetal.TabIndex = 2;
             this.panelPedidoDetal.Visible = false;
-           
-            this.panelPedidoDetal.MouseWheel += new System.Windows.Forms.MouseEventHandler(this.panelPedidoDetal_MouseWheel);
             // 
             // textBoxPedidoHorario
             // 
@@ -253,7 +250,7 @@ namespace teste
             this.dgwItens.Name = "dgwItens";
             this.dgwItens.ReadOnly = true;
             this.dgwItens.SelectionMode = System.Windows.Forms.DataGridViewSelectionMode.FullRowSelect;
-            this.dgwItens.Size = new System.Drawing.Size(509, 233);
+            this.dgwItens.Size = new System.Drawing.Size(509, 218);
             this.dgwItens.TabIndex = 24;
             this.dgwItens.CellFormatting += new System.Windows.Forms.DataGridViewCellFormattingEventHandler(this.dgwItens_CellFormatting);
             // 
@@ -324,85 +321,6 @@ namespace teste
             this.colValorTotal.Resizable = System.Windows.Forms.DataGridViewTriState.False;
             this.colValorTotal.SortMode = System.Windows.Forms.DataGridViewColumnSortMode.NotSortable;
             this.colValorTotal.Width = 62;
-            // 
-            // panel1
-            // 
-            this.panel1.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(9)))), ((int)(((byte)(34)))));
-            this.panel1.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.panel1.Controls.Add(this.tbxDesc);
-            this.panel1.Controls.Add(this.label2);
-            this.panel1.Controls.Add(this.tbxValorBruto);
-            this.panel1.Controls.Add(this.label1);
-            this.panel1.Controls.Add(this.tbxValorTotal);
-            this.panel1.Controls.Add(this.labelPedidoValorTotal);
-            this.panel1.Location = new System.Drawing.Point(3, 288);
-            this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(562, 57);
-            this.panel1.TabIndex = 26;
-            // 
-            // tbxDesc
-            // 
-            this.tbxDesc.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbxDesc.Location = new System.Drawing.Point(276, 12);
-            this.tbxDesc.Name = "tbxDesc";
-            this.tbxDesc.ReadOnly = true;
-            this.tbxDesc.Size = new System.Drawing.Size(82, 29);
-            this.tbxDesc.TabIndex = 4;
-            this.tbxDesc.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // label2
-            // 
-            this.label2.AutoSize = true;
-            this.label2.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label2.ForeColor = System.Drawing.Color.White;
-            this.label2.Location = new System.Drawing.Point(221, 15);
-            this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(55, 22);
-            this.label2.TabIndex = 5;
-            this.label2.Text = "Desc";
-            // 
-            // tbxValorBruto
-            // 
-            this.tbxValorBruto.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbxValorBruto.Location = new System.Drawing.Point(106, 12);
-            this.tbxValorBruto.Name = "tbxValorBruto";
-            this.tbxValorBruto.ReadOnly = true;
-            this.tbxValorBruto.Size = new System.Drawing.Size(82, 29);
-            this.tbxValorBruto.TabIndex = 2;
-            this.tbxValorBruto.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            // 
-            // label1
-            // 
-            this.label1.AutoSize = true;
-            this.label1.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.label1.ForeColor = System.Drawing.Color.White;
-            this.label1.Location = new System.Drawing.Point(3, 15);
-            this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(103, 22);
-            this.label1.TabIndex = 3;
-            this.label1.Text = "Valor Bruto";
-            // 
-            // tbxValorTotal
-            // 
-            this.tbxValorTotal.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.tbxValorTotal.Location = new System.Drawing.Point(473, 12);
-            this.tbxValorTotal.Name = "tbxValorTotal";
-            this.tbxValorTotal.ReadOnly = true;
-            this.tbxValorTotal.Size = new System.Drawing.Size(82, 29);
-            this.tbxValorTotal.TabIndex = 0;
-            this.tbxValorTotal.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
-            this.tbxValorTotal.MouseClick += new System.Windows.Forms.MouseEventHandler(this.textValorTotal_MouseClick);
-            // 
-            // labelPedidoValorTotal
-            // 
-            this.labelPedidoValorTotal.AutoSize = true;
-            this.labelPedidoValorTotal.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.labelPedidoValorTotal.ForeColor = System.Drawing.Color.White;
-            this.labelPedidoValorTotal.Location = new System.Drawing.Point(375, 15);
-            this.labelPedidoValorTotal.Name = "labelPedidoValorTotal";
-            this.labelPedidoValorTotal.Size = new System.Drawing.Size(98, 22);
-            this.labelPedidoValorTotal.TabIndex = 1;
-            this.labelPedidoValorTotal.Text = "Valor Liqui";
             // 
             // labelTelefone2
             // 
@@ -557,6 +475,83 @@ namespace teste
             this.labelPedidoNum.TabIndex = 1;
             this.labelPedidoNum.Text = "Pedido #";
             // 
+            // pnlValorT
+            // 
+            this.pnlValorT.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(20)))), ((int)(((byte)(9)))), ((int)(((byte)(34)))));
+            this.pnlValorT.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
+            this.pnlValorT.Controls.Add(this.tbxDesc);
+            this.pnlValorT.Controls.Add(this.label2);
+            this.pnlValorT.Controls.Add(this.tbxValorBruto);
+            this.pnlValorT.Controls.Add(this.label1);
+            this.pnlValorT.Controls.Add(this.tbxValorTotal);
+            this.pnlValorT.Controls.Add(this.labelPedidoValorTotal);
+            this.pnlValorT.Location = new System.Drawing.Point(300, 345);
+            this.pnlValorT.Name = "pnlValorT";
+            this.pnlValorT.Size = new System.Drawing.Size(584, 57);
+            this.pnlValorT.TabIndex = 26;
+            this.pnlValorT.Visible = false;
+            // 
+            // tbxDesc
+            // 
+            this.tbxDesc.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxDesc.Location = new System.Drawing.Point(277, 12);
+            this.tbxDesc.Name = "tbxDesc";
+            this.tbxDesc.ReadOnly = true;
+            this.tbxDesc.Size = new System.Drawing.Size(82, 26);
+            this.tbxDesc.TabIndex = 4;
+            // 
+            // label2
+            // 
+            this.label2.AutoSize = true;
+            this.label2.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label2.ForeColor = System.Drawing.Color.White;
+            this.label2.Location = new System.Drawing.Point(222, 15);
+            this.label2.Name = "label2";
+            this.label2.Size = new System.Drawing.Size(55, 22);
+            this.label2.TabIndex = 5;
+            this.label2.Text = "Desc";
+            // 
+            // tbxValorBruto
+            // 
+            this.tbxValorBruto.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxValorBruto.Location = new System.Drawing.Point(106, 12);
+            this.tbxValorBruto.Name = "tbxValorBruto";
+            this.tbxValorBruto.ReadOnly = true;
+            this.tbxValorBruto.Size = new System.Drawing.Size(82, 26);
+            this.tbxValorBruto.TabIndex = 2;
+            // 
+            // label1
+            // 
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.ForeColor = System.Drawing.Color.White;
+            this.label1.Location = new System.Drawing.Point(3, 15);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(103, 22);
+            this.label1.TabIndex = 3;
+            this.label1.Text = "Valor Bruto";
+            // 
+            // tbxValorTotal
+            // 
+            this.tbxValorTotal.Font = new System.Drawing.Font("Arial", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.tbxValorTotal.Location = new System.Drawing.Point(482, 12);
+            this.tbxValorTotal.Name = "tbxValorTotal";
+            this.tbxValorTotal.ReadOnly = true;
+            this.tbxValorTotal.Size = new System.Drawing.Size(82, 26);
+            this.tbxValorTotal.TabIndex = 0;
+            this.tbxValorTotal.MouseClick += new System.Windows.Forms.MouseEventHandler(this.textValorTotal_MouseClick);
+            // 
+            // labelPedidoValorTotal
+            // 
+            this.labelPedidoValorTotal.AutoSize = true;
+            this.labelPedidoValorTotal.Font = new System.Drawing.Font("Arial", 14.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.labelPedidoValorTotal.ForeColor = System.Drawing.Color.White;
+            this.labelPedidoValorTotal.Location = new System.Drawing.Point(384, 15);
+            this.labelPedidoValorTotal.Name = "labelPedidoValorTotal";
+            this.labelPedidoValorTotal.Size = new System.Drawing.Size(98, 22);
+            this.labelPedidoValorTotal.TabIndex = 1;
+            this.labelPedidoValorTotal.Text = "Valor Liqui";
+            // 
             // panelPedidoOrdem
             // 
             this.panelPedidoOrdem.BackColor = System.Drawing.Color.White;
@@ -619,6 +614,7 @@ namespace teste
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.FromArgb(((int)(((byte)(56)))), ((int)(((byte)(24)))), ((int)(((byte)(95)))));
             this.ClientSize = new System.Drawing.Size(896, 473);
+            this.Controls.Add(this.pnlValorT);
             this.Controls.Add(this.iconPrint);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.comboBoxSituacaoPesq);
@@ -630,6 +626,7 @@ namespace teste
             this.Controls.Add(this.buttonPedidoNovo);
             this.Controls.Add(this.buttonPedidoConsultar);
             this.Controls.Add(this.buttonPedidoAlterar);
+            this.DoubleBuffered = true;
             this.Name = "FrmPedido";
             this.Text = "Pedidos";
             this.Load += new System.EventHandler(this.FrmPedido_Load);
@@ -638,8 +635,8 @@ namespace teste
             this.panelPedidoDetal.PerformLayout();
             this.groupBox1.ResumeLayout(false);
             ((System.ComponentModel.ISupportInitialize)(this.dgwItens)).EndInit();
-            this.panel1.ResumeLayout(false);
-            this.panel1.PerformLayout();
+            this.pnlValorT.ResumeLayout(false);
+            this.pnlValorT.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.situacaoBindingSource)).EndInit();
             this.ResumeLayout(false);
 
@@ -675,7 +672,7 @@ namespace teste
         private System.Windows.Forms.TextBox textBoxPedidoNum;
         private System.Windows.Forms.ContextMenuStrip contextMenuStrip1;
         private System.Windows.Forms.DataGridView dgwItens;
-        private System.Windows.Forms.Panel panel1;
+        private System.Windows.Forms.Panel pnlValorT;
         private System.Windows.Forms.Label labelPedidoValorTotal;
         private System.Windows.Forms.TextBox tbxValorTotal;
         private System.Windows.Forms.GroupBox groupBox1;

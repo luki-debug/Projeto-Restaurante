@@ -19,9 +19,11 @@ namespace teste
     public partial class FrmPedido : Form
     {
         int posicao1 = 3;
+        int posicaoPanel1 = 290;
         string mouseClick="";
         Panel ativado;
-        
+        int i = 0;
+
         public FrmPedido()
         {
             InitializeComponent();
@@ -122,6 +124,7 @@ namespace teste
             SituacaoColletion situacaoCollection = new SituacaoColletion();
 
             panelPedidoDetal.Visible = false;
+            pnlValorT.Visible = false;
 
             Situacao situacao = new Situacao();
 
@@ -481,6 +484,8 @@ namespace teste
 
 
                 decimal ValorT = 0;
+                pnlValorT.Visible = true;
+
                 foreach (PedidoItem vt in pedidoItemCollection)
                 {
                     ValorT += vt.ValorTotal;
@@ -563,15 +568,5 @@ namespace teste
             tbxValorTotal.SelectAll();
         }
 
-        private void panelPedidoDetal_MouseWheel(object sender, MouseEventArgs e)
-        {
-            if (e.Delta != 0)
-            {
-                MessageBox.Show(e.X.ToString(), e.Y.ToString());
-                //int altura=this.Width * e.Y
-            }
-
-                //panel1.Location = new Point(3, 300);
-        }
     }
 }

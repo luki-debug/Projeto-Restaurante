@@ -44,3 +44,15 @@ C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug
 C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.dll
 C:\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.pdb
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\Negocio.dll
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\Negocio.pdb
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.dll
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.dll
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.pdb
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.dll.config
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.dll
+C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.pdb
