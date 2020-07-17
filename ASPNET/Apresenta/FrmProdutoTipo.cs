@@ -57,6 +57,7 @@ namespace teste
 
             dgwTipo.DataSource = null;
             dgwTipo.AutoGenerateColumns = false;
+            produtoCollection.Sort((x, y) => x.Tipo.CompareTo(y.Tipo));
             dgwTipo.DataSource = produtoCollection;
             //dgwTipo.Sort(colTipo,ListSortDirection.Ascending);
             dgwTipo.Update();

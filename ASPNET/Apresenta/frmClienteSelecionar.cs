@@ -40,6 +40,8 @@ namespace teste
             ClienteCollection clienteCollection = new ClienteCollection();
             clienteCollection = clienteNegocios.ConsultarNome(textBoxPesquisa.Text);
             dataGridViewCliente.DataSource = null;
+           
+            clienteCollection.Sort((x, y) => x.NomeCompleto.CompareTo(y.NomeCompleto));
             dataGridViewCliente.DataSource = clienteCollection;
             dataGridViewCliente.Update();
             dataGridViewCliente.Refresh();

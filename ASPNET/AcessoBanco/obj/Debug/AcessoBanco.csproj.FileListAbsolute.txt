@@ -30,3 +30,9 @@ C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Acess
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.dll
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Debug\AcessoBanco.dll.config
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Debug\AcessoBanco.dll
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Debug\AcessoBanco.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.dll
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.pdb

@@ -56,3 +56,14 @@ C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negoc
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.dll
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\Negocio.dll
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\Negocio.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.dll
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\AcessoBanco.dll.config
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.dll
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.pdb
