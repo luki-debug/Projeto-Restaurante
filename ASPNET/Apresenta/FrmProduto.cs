@@ -51,6 +51,7 @@ namespace teste
             ProdutoColletion produtoCollection = new ProdutoColletion();
             produtoCollection = produtoNegocios.ProdutoConsultarPorTipo(null,textBoxPesquisa.Text,null);
             dataGridViewProduto.DataSource = null;
+            produtoCollection.Sort((x, y) => x.Tipo.CompareTo(y.Tipo));
             dataGridViewProduto.DataSource = produtoCollection;
             dataGridViewProduto.Update();
             dataGridViewProduto.Refresh();
