@@ -142,5 +142,10 @@ namespace teste
                 AtualizarGrid();
             }
         }
+
+        private void FrmProduto_Load(object sender, EventArgs e)
+        {
+            AtualizarGrid();
+        }
     }
 }

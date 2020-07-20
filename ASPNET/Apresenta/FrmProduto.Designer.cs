@@ -36,6 +36,10 @@
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
             this.dataGridViewProduto = new System.Windows.Forms.DataGridView();
+            this.CodigoProduto = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Tipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.NomeProduto = new System.Windows.Forms.DataGridViewTextBoxColumn();
+            this.Valor = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.textBoxPesquisa = new System.Windows.Forms.TextBox();
             this.labelPesquisa = new System.Windows.Forms.Label();
             this.buttonFechar = new System.Windows.Forms.Button();
@@ -44,10 +48,6 @@
             this.buttonAlterar = new System.Windows.Forms.Button();
             this.buttonInserir = new System.Windows.Forms.Button();
             this.buttonPesquisar = new System.Windows.Forms.Button();
-            this.CodigoProduto = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Tipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.NomeProduto = new System.Windows.Forms.DataGridViewTextBoxColumn();
-            this.Valor = new System.Windows.Forms.DataGridViewTextBoxColumn();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewProduto)).BeginInit();
             this.SuspendLayout();
             // 
@@ -89,7 +89,6 @@
             this.dataGridViewProduto.MultiSelect = false;
             this.dataGridViewProduto.Name = "dataGridViewProduto";
             dataGridViewCellStyle6.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleLeft;
-            dataGridViewCellStyle6.BackColor = System.Drawing.Color.Empty;
             dataGridViewCellStyle6.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.25F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             dataGridViewCellStyle6.ForeColor = System.Drawing.SystemColors.WindowText;
             dataGridViewCellStyle6.WrapMode = System.Windows.Forms.DataGridViewTriState.True;
@@ -105,6 +104,41 @@
             this.dataGridViewProduto.Size = new System.Drawing.Size(619, 277);
             this.dataGridViewProduto.TabIndex = 0;
             this.dataGridViewProduto.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
+            // 
+            // CodigoProduto
+            // 
+            this.CodigoProduto.DataPropertyName = "Codigo";
+            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.Red;
+            this.CodigoProduto.DefaultCellStyle = dataGridViewCellStyle3;
+            this.CodigoProduto.HeaderText = "Código";
+            this.CodigoProduto.Name = "CodigoProduto";
+            this.CodigoProduto.ReadOnly = true;
+            // 
+            // Tipo
+            // 
+            this.Tipo.DataPropertyName = "Tipo";
+            this.Tipo.HeaderText = "Tipo";
+            this.Tipo.Name = "Tipo";
+            this.Tipo.ReadOnly = true;
+            this.Tipo.Width = 150;
+            // 
+            // NomeProduto
+            // 
+            this.NomeProduto.DataPropertyName = "Sabor";
+            this.NomeProduto.HeaderText = "Sabor";
+            this.NomeProduto.Name = "NomeProduto";
+            this.NomeProduto.ReadOnly = true;
+            this.NomeProduto.Width = 250;
+            // 
+            // Valor
+            // 
+            this.Valor.DataPropertyName = "Valor";
+            dataGridViewCellStyle4.Format = "C2";
+            dataGridViewCellStyle4.NullValue = null;
+            this.Valor.DefaultCellStyle = dataGridViewCellStyle4;
+            this.Valor.HeaderText = "Valor";
+            this.Valor.Name = "Valor";
+            this.Valor.ReadOnly = true;
             // 
             // textBoxPesquisa
             // 
@@ -200,41 +234,6 @@
             this.buttonPesquisar.UseVisualStyleBackColor = false;
             this.buttonPesquisar.Click += new System.EventHandler(this.buttonPesquisar_Click_1);
             // 
-            // CodigoProduto
-            // 
-            this.CodigoProduto.DataPropertyName = "Codigo";
-            dataGridViewCellStyle3.ForeColor = System.Drawing.Color.Red;
-            this.CodigoProduto.DefaultCellStyle = dataGridViewCellStyle3;
-            this.CodigoProduto.HeaderText = "Código";
-            this.CodigoProduto.Name = "CodigoProduto";
-            this.CodigoProduto.ReadOnly = true;
-            // 
-            // Tipo
-            // 
-            this.Tipo.DataPropertyName = "Tipo";
-            this.Tipo.HeaderText = "Tipo";
-            this.Tipo.Name = "Tipo";
-            this.Tipo.ReadOnly = true;
-            this.Tipo.Width = 150;
-            // 
-            // NomeProduto
-            // 
-            this.NomeProduto.DataPropertyName = "Sabor";
-            this.NomeProduto.HeaderText = "Sabor";
-            this.NomeProduto.Name = "NomeProduto";
-            this.NomeProduto.ReadOnly = true;
-            this.NomeProduto.Width = 250;
-            // 
-            // Valor
-            // 
-            this.Valor.DataPropertyName = "Valor";
-            dataGridViewCellStyle4.Format = "C2";
-            dataGridViewCellStyle4.NullValue = null;
-            this.Valor.DefaultCellStyle = dataGridViewCellStyle4;
-            this.Valor.HeaderText = "Valor";
-            this.Valor.Name = "Valor";
-            this.Valor.ReadOnly = true;
-            // 
             // FrmProduto
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -252,6 +251,7 @@
             this.Controls.Add(this.dataGridViewProduto);
             this.Name = "FrmProduto";
             this.Text = "Produtos";
+            this.Load += new System.EventHandler(this.FrmProduto_Load);
             this.Shown += new System.EventHandler(this.FrmProduto_Shown);
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewProduto)).EndInit();
             this.ResumeLayout(false);

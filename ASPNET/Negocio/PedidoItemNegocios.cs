@@ -42,7 +42,7 @@ namespace Negocio
             {
                 PedidoItemColletion pedidoItemColletion = new PedidoItemColletion();
                 acessoDadosSqlServer.LimparParametros();
-                acessoDadosSqlServer.AdicionarParametros("idPedido", idPedido);
+                acessoDadosSqlServer.AdicionarParametros("@idPedido", idPedido);
                 DataTable dataTable = acessoDadosSqlServer.ExecutarConsulta(CommandType.StoredProcedure, "uspPedidoConsultarItem");
 
                 foreach (DataRow dataRow in dataTable.Rows)

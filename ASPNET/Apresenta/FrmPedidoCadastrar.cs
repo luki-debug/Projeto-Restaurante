@@ -767,5 +767,15 @@ namespace teste
             textBoxInserirDesc.Clear();
             atualizarGrid();
         }
+
+        private void FrmPedidoCadastrar_Load(object sender, EventArgs e)
+        {
+            ClienteNegocios clienteNegocios = new ClienteNegocios();
+            ProdutoNegocios produtoNegocios = new ProdutoNegocios();
+
+            clienteBindingSource.DataSource = clienteNegocios.ConsultarNome("");
+            produtoBindingSource.DataSource = produtoNegocios.ProdutoConsultarPorTipo("", null, null);
+            
+        }
     }
 }

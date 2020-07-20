@@ -29,6 +29,7 @@ namespace teste
 
                 produtoCollections = produtoNegocios.TipoConsultar("");
 
+                produtoCollections.Sort((x, y) => x.Tipo.CompareTo(y.Tipo));
                 comboBoxTipo.DataSource = produtoCollections;
 
             }
@@ -143,5 +144,6 @@ namespace teste
             produtoCollections = produtoNegocios.TipoConsultar("");
             this.comboBoxTipo.DataSource = produtoCollections;
         }
+
     }
 }

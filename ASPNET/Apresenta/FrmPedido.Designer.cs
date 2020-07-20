@@ -30,9 +30,9 @@ namespace teste
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle4 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle5 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle6 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
             this.buttonPedidoConsultar = new System.Windows.Forms.Button();
             this.buttonPedidoAlterar = new System.Windows.Forms.Button();
             this.buttonPedidoNovo = new System.Windows.Forms.Button();
@@ -78,9 +78,9 @@ namespace teste
             this.contextMenuStrip1 = new System.Windows.Forms.ContextMenuStrip(this.components);
             this.backgroundWorker1 = new System.ComponentModel.BackgroundWorker();
             this.comboBoxSituacaoPesq = new System.Windows.Forms.ComboBox();
-            this.situacaoBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.button1 = new System.Windows.Forms.Button();
             this.iconPrint = new FontAwesome.Sharp.IconButton();
+            this.situacaoBindingSource = new System.Windows.Forms.BindingSource(this.components);
             this.panelPedidoDetal.SuspendLayout();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.dgwItens)).BeginInit();
@@ -234,8 +234,8 @@ namespace teste
             // 
             // dgwItens
             // 
-            dataGridViewCellStyle4.BackColor = System.Drawing.Color.Lavender;
-            this.dgwItens.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle4;
+            dataGridViewCellStyle7.BackColor = System.Drawing.Color.Lavender;
+            this.dgwItens.AlternatingRowsDefaultCellStyle = dataGridViewCellStyle7;
             this.dgwItens.BorderStyle = System.Windows.Forms.BorderStyle.None;
             this.dgwItens.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
             this.dgwItens.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
@@ -298,9 +298,9 @@ namespace teste
             // 
             this.colValorUn.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.ColumnHeader;
             this.colValorUn.DataPropertyName = "ValorUn";
-            dataGridViewCellStyle5.Format = "C2";
-            dataGridViewCellStyle5.NullValue = null;
-            this.colValorUn.DefaultCellStyle = dataGridViewCellStyle5;
+            dataGridViewCellStyle8.Format = "C2";
+            dataGridViewCellStyle8.NullValue = null;
+            this.colValorUn.DefaultCellStyle = dataGridViewCellStyle8;
             this.colValorUn.HeaderText = "ValorUn";
             this.colValorUn.Name = "colValorUn";
             this.colValorUn.ReadOnly = true;
@@ -312,9 +312,9 @@ namespace teste
             // 
             this.colValorTotal.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
             this.colValorTotal.DataPropertyName = "ValorTotal";
-            dataGridViewCellStyle6.Format = "C2";
-            dataGridViewCellStyle6.NullValue = null;
-            this.colValorTotal.DefaultCellStyle = dataGridViewCellStyle6;
+            dataGridViewCellStyle9.Format = "C2";
+            dataGridViewCellStyle9.NullValue = null;
+            this.colValorTotal.DefaultCellStyle = dataGridViewCellStyle9;
             this.colValorTotal.HeaderText = "Valor Total";
             this.colValorTotal.Name = "colValorTotal";
             this.colValorTotal.ReadOnly = true;
@@ -567,7 +567,6 @@ namespace teste
             // 
             // comboBoxSituacaoPesq
             // 
-            this.comboBoxSituacaoPesq.DataBindings.Add(new System.Windows.Forms.Binding("Text", this.situacaoBindingSource, "Descricao", true));
             this.comboBoxSituacaoPesq.DataSource = this.situacaoBindingSource;
             this.comboBoxSituacaoPesq.DisplayMember = "Descricao";
             this.comboBoxSituacaoPesq.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
@@ -576,10 +575,7 @@ namespace teste
             this.comboBoxSituacaoPesq.Name = "comboBoxSituacaoPesq";
             this.comboBoxSituacaoPesq.Size = new System.Drawing.Size(205, 21);
             this.comboBoxSituacaoPesq.TabIndex = 16;
-            // 
-            // situacaoBindingSource
-            // 
-            this.situacaoBindingSource.DataSource = typeof(ObjetoTransferencia.Situacao);
+            this.comboBoxSituacaoPesq.ValueMember = "IdSituacao";
             // 
             // button1
             // 
@@ -607,6 +603,10 @@ namespace teste
             this.iconPrint.TabIndex = 18;
             this.iconPrint.UseVisualStyleBackColor = false;
             this.iconPrint.Visible = false;
+            // 
+            // situacaoBindingSource
+            // 
+            this.situacaoBindingSource.DataSource = typeof(ObjetoTransferencia.Situacao);
             // 
             // FrmPedido
             // 
@@ -679,7 +679,6 @@ namespace teste
         private System.ComponentModel.BackgroundWorker backgroundWorker1;
         private System.Windows.Forms.ComboBox comboBoxSituacaoPesq;
         private System.Windows.Forms.Button button1;
-        private System.Windows.Forms.BindingSource situacaoBindingSource;
         private FontAwesome.Sharp.IconButton iconPrint;
         private System.Windows.Forms.DataGridViewTextBoxColumn colCodigoProduto;
         private System.Windows.Forms.DataGridViewTextBoxColumn colTipo;
@@ -691,5 +690,6 @@ namespace teste
         private System.Windows.Forms.Label label2;
         private System.Windows.Forms.TextBox tbxValorBruto;
         private System.Windows.Forms.Label label1;
+        private System.Windows.Forms.BindingSource situacaoBindingSource;
     }
 }

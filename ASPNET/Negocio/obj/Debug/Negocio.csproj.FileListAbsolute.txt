@@ -67,3 +67,4 @@ C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Neg
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CopyComplete
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.dll
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache

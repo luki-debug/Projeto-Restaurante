@@ -28,25 +28,19 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.components = new System.ComponentModel.Container();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
             System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmProdutoTipo));
             this.dgwTipo = new System.Windows.Forms.DataGridView();
-            this.bDagendaDataSet = new teste.BDagendaDataSet();
-            this.produtoTipoBindingSource = new System.Windows.Forms.BindingSource(this.components);
-            this.produtoTipoTableAdapter = new teste.BDagendaDataSetTableAdapters.ProdutoTipoTableAdapter();
-            this.textBoxInserirTipo = new System.Windows.Forms.TextBox();
-            this.btnInserir = new System.Windows.Forms.Button();
-            this.btnFechar = new System.Windows.Forms.Button();
             this.colIdTipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.colTipo = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.Editar = new System.Windows.Forms.DataGridViewImageColumn();
             this.Excluir = new System.Windows.Forms.DataGridViewImageColumn();
+            this.textBoxInserirTipo = new System.Windows.Forms.TextBox();
+            this.btnInserir = new System.Windows.Forms.Button();
+            this.btnFechar = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.dgwTipo)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bDagendaDataSet)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.produtoTipoBindingSource)).BeginInit();
             this.SuspendLayout();
             // 
             // dgwTipo
@@ -89,47 +83,6 @@
             this.dgwTipo.CellEndEdit += new System.Windows.Forms.DataGridViewCellEventHandler(this.dgwTipo_CellEndEdit);
             this.dgwTipo.CellFormatting += new System.Windows.Forms.DataGridViewCellFormattingEventHandler(this.dgwTipo_CellFormatting);
             // 
-            // bDagendaDataSet
-            // 
-            this.bDagendaDataSet.DataSetName = "BDagendaDataSet";
-            this.bDagendaDataSet.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
-            // 
-            // produtoTipoBindingSource
-            // 
-            this.produtoTipoBindingSource.DataMember = "ProdutoTipo";
-            this.produtoTipoBindingSource.DataSource = this.bDagendaDataSet;
-            // 
-            // produtoTipoTableAdapter
-            // 
-            this.produtoTipoTableAdapter.ClearBeforeFill = true;
-            // 
-            // textBoxInserirTipo
-            // 
-            this.textBoxInserirTipo.Location = new System.Drawing.Point(16, 24);
-            this.textBoxInserirTipo.Name = "textBoxInserirTipo";
-            this.textBoxInserirTipo.Size = new System.Drawing.Size(129, 20);
-            this.textBoxInserirTipo.TabIndex = 1;
-            // 
-            // btnInserir
-            // 
-            this.btnInserir.Location = new System.Drawing.Point(145, 22);
-            this.btnInserir.Name = "btnInserir";
-            this.btnInserir.Size = new System.Drawing.Size(75, 25);
-            this.btnInserir.TabIndex = 2;
-            this.btnInserir.Text = "Inserir";
-            this.btnInserir.UseVisualStyleBackColor = true;
-            this.btnInserir.Click += new System.EventHandler(this.btnInserir_Click);
-            // 
-            // btnFechar
-            // 
-            this.btnFechar.Location = new System.Drawing.Point(346, 276);
-            this.btnFechar.Name = "btnFechar";
-            this.btnFechar.Size = new System.Drawing.Size(75, 23);
-            this.btnFechar.TabIndex = 4;
-            this.btnFechar.Text = "Fechar";
-            this.btnFechar.UseVisualStyleBackColor = true;
-            this.btnFechar.Click += new System.EventHandler(this.btnFechar_Click);
-            // 
             // colIdTipo
             // 
             this.colIdTipo.AutoSizeMode = System.Windows.Forms.DataGridViewAutoSizeColumnMode.None;
@@ -168,6 +121,33 @@
             this.Excluir.ToolTipText = "Click para excluir Tipo";
             this.Excluir.Width = 40;
             // 
+            // textBoxInserirTipo
+            // 
+            this.textBoxInserirTipo.Location = new System.Drawing.Point(16, 24);
+            this.textBoxInserirTipo.Name = "textBoxInserirTipo";
+            this.textBoxInserirTipo.Size = new System.Drawing.Size(129, 20);
+            this.textBoxInserirTipo.TabIndex = 1;
+            // 
+            // btnInserir
+            // 
+            this.btnInserir.Location = new System.Drawing.Point(145, 22);
+            this.btnInserir.Name = "btnInserir";
+            this.btnInserir.Size = new System.Drawing.Size(75, 25);
+            this.btnInserir.TabIndex = 2;
+            this.btnInserir.Text = "Inserir";
+            this.btnInserir.UseVisualStyleBackColor = true;
+            this.btnInserir.Click += new System.EventHandler(this.btnInserir_Click);
+            // 
+            // btnFechar
+            // 
+            this.btnFechar.Location = new System.Drawing.Point(346, 276);
+            this.btnFechar.Name = "btnFechar";
+            this.btnFechar.Size = new System.Drawing.Size(75, 23);
+            this.btnFechar.TabIndex = 4;
+            this.btnFechar.Text = "Fechar";
+            this.btnFechar.UseVisualStyleBackColor = true;
+            this.btnFechar.Click += new System.EventHandler(this.btnFechar_Click);
+            // 
             // FrmProdutoTipo
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
@@ -186,8 +166,6 @@
             this.Text = "ProdutoTipo";
             this.Load += new System.EventHandler(this.FrmProdutoTipo_Load);
             ((System.ComponentModel.ISupportInitialize)(this.dgwTipo)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.bDagendaDataSet)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.produtoTipoBindingSource)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -196,9 +174,6 @@
         #endregion
 
         private System.Windows.Forms.DataGridView dgwTipo;
-        private BDagendaDataSet bDagendaDataSet;
-        private System.Windows.Forms.BindingSource produtoTipoBindingSource;
-        private BDagendaDataSetTableAdapters.ProdutoTipoTableAdapter produtoTipoTableAdapter;
         private System.Windows.Forms.TextBox textBoxInserirTipo;
         private System.Windows.Forms.Button btnInserir;
         private System.Windows.Forms.Button btnFechar;

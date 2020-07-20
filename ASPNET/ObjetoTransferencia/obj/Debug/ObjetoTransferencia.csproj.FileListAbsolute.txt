@@ -25,3 +25,9 @@ C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\Objet
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
 C:\Windows.old\Users\Van Basten\Desktop\Projeto\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.dll
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\ObjetoTransferencia\bin\Debug\ObjetoTransferencia.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csprojAssemblyReference.cache
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.dll
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\ObjetoTransferencia\obj\Debug\ObjetoTransferencia.csproj.CoreCompileInputs.cache

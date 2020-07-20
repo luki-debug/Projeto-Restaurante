@@ -29,9 +29,9 @@
         private void InitializeComponent()
         {
             this.components = new System.ComponentModel.Container();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle1 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle2 = new System.Windows.Forms.DataGridViewCellStyle();
-            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle3 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle7 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle8 = new System.Windows.Forms.DataGridViewCellStyle();
+            System.Windows.Forms.DataGridViewCellStyle dataGridViewCellStyle9 = new System.Windows.Forms.DataGridViewCellStyle();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FrmPedidoCadastrar));
             this.label1 = new System.Windows.Forms.Label();
             this.textBoxPedidoId = new System.Windows.Forms.TextBox();
@@ -251,6 +251,7 @@
             this.comboBoxProduto.Name = "comboBoxProduto";
             this.comboBoxProduto.Size = new System.Drawing.Size(204, 21);
             this.comboBoxProduto.TabIndex = 0;
+            this.comboBoxProduto.ValueMember = "IdProduto";
             this.comboBoxProduto.KeyDown += new System.Windows.Forms.KeyEventHandler(this.comboBoxProduto_KeyDown);
             // 
             // btnAlterarQtd
@@ -422,8 +423,8 @@
             // colQtd
             // 
             this.colQtd.DataPropertyName = "QtdProduto";
-            dataGridViewCellStyle1.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
-            this.colQtd.DefaultCellStyle = dataGridViewCellStyle1;
+            dataGridViewCellStyle7.Alignment = System.Windows.Forms.DataGridViewContentAlignment.MiddleCenter;
+            this.colQtd.DefaultCellStyle = dataGridViewCellStyle7;
             this.colQtd.HeaderText = "Qtd";
             this.colQtd.Name = "colQtd";
             this.colQtd.ReadOnly = true;
@@ -433,9 +434,9 @@
             // colValorUn
             // 
             this.colValorUn.DataPropertyName = "ValorUn";
-            dataGridViewCellStyle2.Format = "C2";
-            dataGridViewCellStyle2.NullValue = null;
-            this.colValorUn.DefaultCellStyle = dataGridViewCellStyle2;
+            dataGridViewCellStyle8.Format = "C2";
+            dataGridViewCellStyle8.NullValue = null;
+            this.colValorUn.DefaultCellStyle = dataGridViewCellStyle8;
             this.colValorUn.HeaderText = "ValorUn";
             this.colValorUn.Name = "colValorUn";
             this.colValorUn.ReadOnly = true;
@@ -445,9 +446,9 @@
             // colTotal
             // 
             this.colTotal.DataPropertyName = "ValorTotal";
-            dataGridViewCellStyle3.Format = "C2";
-            dataGridViewCellStyle3.NullValue = null;
-            this.colTotal.DefaultCellStyle = dataGridViewCellStyle3;
+            dataGridViewCellStyle9.Format = "C2";
+            dataGridViewCellStyle9.NullValue = null;
+            this.colTotal.DefaultCellStyle = dataGridViewCellStyle9;
             this.colTotal.HeaderText = "Total";
             this.colTotal.Name = "colTotal";
             this.colTotal.ReadOnly = true;
@@ -514,6 +515,7 @@
             this.comboBoxCliente.Name = "comboBoxCliente";
             this.comboBoxCliente.Size = new System.Drawing.Size(246, 21);
             this.comboBoxCliente.TabIndex = 0;
+            this.comboBoxCliente.ValueMember = "IdPessoa";
             this.comboBoxCliente.KeyDown += new System.Windows.Forms.KeyEventHandler(this.comboBox1_KeyDown);
             // 
             // clienteBindingSource
@@ -564,6 +566,7 @@
             this.Name = "FrmPedidoCadastrar";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Novo Pedido";
+            this.Load += new System.EventHandler(this.FrmPedidoCadastrar_Load);
             this.gbxItens.ResumeLayout(false);
             this.gbxItens.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.produtoBindingSource)).EndInit();

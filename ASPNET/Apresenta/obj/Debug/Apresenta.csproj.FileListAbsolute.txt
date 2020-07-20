@@ -267,3 +267,4 @@ C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Apresenta\obj\Debug\t
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Apresenta\obj\Debug\Apresenta.csproj.CopyComplete
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Apresenta\obj\Debug\teste.exe
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Apresenta\obj\Debug\teste.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\Apresenta\obj\Debug\Apresenta.csproj.CoreCompileInputs.cache

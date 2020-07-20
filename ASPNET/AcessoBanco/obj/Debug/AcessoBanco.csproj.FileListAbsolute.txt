@@ -36,3 +36,4 @@ C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\bin\Debug
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.csprojAssemblyReference.cache
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.dll
 C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.pdb
+C:\Users\Lucas\Documents\GitHub\Projeto-Restaurante\ASPNET\AcessoBanco\obj\Debug\AcessoBanco.csproj.CoreCompileInputs.cache

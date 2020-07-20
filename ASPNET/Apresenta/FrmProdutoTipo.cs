@@ -24,7 +24,7 @@ namespace teste
         private void FrmProdutoTipo_Load(object sender, EventArgs e)
         {
             // TODO: esta linha de código carrega dados na tabela 'bDagendaDataSet.ProdutoTipo'. Você pode movê-la ou removê-la conforme necessário.
-            this.produtoTipoTableAdapter.Fill(this.bDagendaDataSet.ProdutoTipo);
+            //this.produtoTipoTableAdapter.Fill(this.bDagendaDataSet.ProdutoTipo);
             atualizarGrid();
 
         }

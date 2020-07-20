@@ -37,7 +37,7 @@ namespace Negocio
             {
                 PedidoColletion pedidoColletion = new PedidoColletion();
                 acessoDadosSqlServer.LimparParametros();
-                acessoDadosSqlServer.AdicionarParametros("DataInicial", dataInicial);
+                acessoDadosSqlServer.AdicionarParametros("@DataInicial", dataInicial);
                 acessoDadosSqlServer.AdicionarParametros("@DataFinal", dataFinal);
                 DataTable dataTable = acessoDadosSqlServer.ExecutarConsulta(CommandType.StoredProcedure, "uspPedidoConsultarPorData");
 
@@ -90,7 +90,7 @@ namespace Negocio
             }
             catch (Exception exception)
             {
-                throw new Exception("Erro ao consultar por data. Detalhes:" + exception.Message);
+                throw new Exception("Erro ao consultar por Id. Detalhes:" + exception.Message);
             }
         }
 
